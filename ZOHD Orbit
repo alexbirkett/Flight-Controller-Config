@@ -96,12 +96,12 @@ set vtx_freq = 5733
 # profile
 profile 1
 
-set fw_p_pitch = 2
-set fw_i_pitch = 15
-set fw_ff_pitch = 70
-set fw_p_roll = 2
-set fw_i_roll = 15
-set fw_ff_roll = 30
+set fw_p_pitch = 8
+set fw_i_pitch = 17
+set fw_ff_pitch = 78
+set fw_p_roll = 4
+set fw_i_roll = 8
+set fw_ff_roll = 38
 set fw_p_level = 10
 set fw_i_level = 15
 set max_angle_inclination_rll = 600
